@@ -17,7 +17,9 @@ http://vpython.org/contents/download_windows.html
 To properly run a realistic simulation, please use the following values for the input variables before running the simulation.
 
 Mass = 0.107 kg
+
 Linear Force = 108 N
+
 Gravity = 9.81 m/s^2
 Table Friction Coefficient = 0.2
 Shot Angle = 0-360
